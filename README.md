@@ -24,9 +24,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**rocket-league-ai-assistant**](https://github.com/mousakakish805-oss/rocket-league-ai-assistant) | AI coaching app for Rocket League players | Python · AI |
-| [**hidden-city-ticketing**](https://github.com/mousakakish805-oss/hidden-city-ticketing) | Detects price anomalies across multi-segment flights | Python · Data |
-| [**market-evaluator**](https://github.com/mousakakish805-oss/market-evaluator) | Researches software vendors and alternatives in Jordan, checks them against CBJ Chapter 8 outsourcing rules, and produces a decision report | HTML · Python |
+| [**rocket-league-ai-assistant**](https://github.com/mousakakish805-oss/rocket-league-ai-assistant) | AI coaching app for Rocket League players: scrapes player stats and gives tailored advice through a chat interface | Python · FastAPI · OpenAI · Playwright · Docker |
+| [**hidden-city-ticketing**](https://github.com/mousakakish805-oss/hidden-city-ticketing) | Detects price anomalies across multi-segment flights, with an English/Arabic React UI | FastAPI · React · TypeScript · PostgreSQL · Redis |
+| [**market-evaluator**](https://github.com/mousakakish805-oss/market-evaluator) | Researches software vendors and alternatives in Jordan, checks them against CBJ Chapter 8 outsourcing rules, and produces a decision report | FastAPI · Claude API · JavaScript |
 
 ---
 
@@ -34,22 +34,62 @@
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" />
+  <br/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" />
+  <img src="https://img.shields.io/badge/httpx-1E1E1E?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SlowAPI-555555?style=for-the-badge" />
+</p>
+
+**Databases & Caching**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,redis" />
+  <br/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge" />
 </p>
 
 **AI & Data**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-**Backend & Databases**
+**Web Scraping & Automation**
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,sqlite,postgres" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge" />
 </p>
 
-**Tools**
+**Testing & Code Quality**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" />
+</p>
+
+**DevOps & Deployment**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,netlify,git,github" />
+  <br/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+**Docs & Reports**
+<p>
+  <img src="https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/openpyxl-217346?style=for-the-badge" />
 </p>
 
 ---
